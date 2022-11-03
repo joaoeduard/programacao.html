@@ -1,8 +1,7 @@
 
 body {
-	
-}
 
+}
 
 
 #banner{
@@ -41,12 +40,26 @@ em strong{
 
 }
 
-.beneficius {
+.beneficios {
    background: #FFFFFF;
 	 
 }
 
+ul {
+
+	display: inline-block ;
+    vertical-align: top ;
+
+}
 
 
 
+h2 {
+   text-align: center;
 
+}
+
+.imagembeneficios {
+  width: 50%;
+
+}
