@@ -1,16 +1,6 @@
 
 body {
-
-}
-
-
-#banner{
-	width:100%;
-}
-
-.pricipal{
-   background:#CCCCCC ;
-
+	background: #CCCCCC;
 }
 
 
@@ -32,34 +22,4 @@ body {
 
 em strong{
 	color: #FF0000;
-}
-
-
-.itens {
-    font-size: italic;
-
-}
-
-.beneficios {
-   background: #FFFFFF;
-	 
-}
-
-ul {
-
-	display: inline-block ;
-    vertical-align: top ;
-
-}
-
-
-
-h2 {
-   text-align: center;
-
-}
-
-.imagembeneficios {
-  width: 50%;
-
 }
