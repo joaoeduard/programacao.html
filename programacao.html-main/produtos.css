@@ -26,6 +26,7 @@ nav {
 
      }
 
+
      nav a {
 
         text-transform: uppercase;
@@ -34,4 +35,72 @@ nav {
         font-size: 22px;
         text-decoration: none;
      }
+
+     nav a:hover { 
+        color:#C78C19 
+        text-decoration underline;
+     }
+
+
+    .produtos {
+
+        width: 940px ;
+        margin: 0 auto;
+        padding: 50px 0;
+
+}
+
+    .produtos li  {
+
+   display: inline-block;
+   text-align: center;  
+    width: 30%;
+    vertical-align: top;
+    background: #CCCCCC;
+    margin: 0 1.5%;
+    padding: 30px 20px ;
+    box-sizing: border-box;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+ }
+.produtos li:hover{
+    border-color: #C78C19;
+    font-size: 34px;
+}
+.produtos li:active {
+    color: 088C19;
+
+
+}
+.produtos li:hover h2 {
+
+}
+
+ .produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+
+ }
+.produto-descricao{
+  font-size: 18px;
+
+
+}
+
+.produto-preco{
+
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px 0 0;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
 
